@@ -55,5 +55,9 @@ module.exports = [
         }
       ]
     }
-  }
+  },
+  {
+    title: 'TDT',
+    style: 'https://www.naivemap.com/demotiles/styles/tdt-img/style.json'
+  },
 ];
