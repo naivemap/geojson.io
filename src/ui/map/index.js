@@ -89,7 +89,7 @@ module.exports = function (context, readonly) {
 
   function map() {
     mapboxgl.accessToken =
-      'pk.eyJ1IjoiZXhhbXBsZXMiLCJhIjoiY21rbzVreHNrMDJ2NDNlbXhudTkxMGI3aiJ9.0zBA_9egcHq59cvlpytLoA';
+      'pk.eyJ1IjoiaHVhbmdsaWkiLCJhIjoiY21rMjdxbXA1MGJ4bzNmczcyZzNnNDg2diJ9.-ci9PAXkjqti8vS9zOK32w';
 
     mapboxgl.setRTLTextPlugin(
       'https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-rtl-text/v0.2.3/mapbox-gl-rtl-text.js',
